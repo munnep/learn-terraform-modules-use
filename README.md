@@ -1,4 +1,4 @@
-# How to use a Terraform module 
+# How to use a module from Terraform Registry 
 
 In this repository you will create an AWS VPC using a module from the [Terraform Registry](https://registry.terraform.io/modules/terraform-aws-modules/vpc/aws/2.21.0?tab=inputs). 
 
